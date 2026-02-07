@@ -1,10 +1,5 @@
-# \# GitHub Workshop I
+# GitHub Workshop I
+- Introduction to Git and GitHub
 
-# \- Introduction to Git and GitHub
-
-# 
-
-# \# GitHub Workshop II
-
-# \- Creating and Merging Branches
-
+# GitHub Workshop II
+- Creating and Merging Branches
